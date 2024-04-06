@@ -1,3 +1,5 @@
-export default function App() {
-  return <h1>Let's get started!</h1>;
+import { ReactNode } from "react";
+
+export default function App(): ReactNode {
+  return <h1>Typescript + React Project</h1>;
 }
