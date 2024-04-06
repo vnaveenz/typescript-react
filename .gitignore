@@ -1,0 +1,3 @@
+# Files that get auto created while copying contents from Windows to WSL Machine
+
+*.Identifier
